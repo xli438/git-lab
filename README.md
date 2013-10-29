@@ -16,4 +16,4 @@ Representing Bob:
 	- tenno@usc.edu
 	
 Octocat:
-![Alt text](/Users/nintenno/git_lab/dojocat.jpg)
+![Alt text](http://octodex.github.com/images/dojocat.jpg)

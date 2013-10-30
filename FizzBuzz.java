@@ -3,7 +3,7 @@ public class FizzBuzz {
         for(int i = 0; i < 100; i++) {
 //<<<<<<< HEAD
             if( i % 3 == 0)
-            System.out.println(i);
+            System.out.println("Fizz");
 //=======
             else if( i % 5 == 0)
                 System.out.println("Buzz");
